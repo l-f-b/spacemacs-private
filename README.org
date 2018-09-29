@@ -22,7 +22,7 @@ The forked version is only a few commits behind the original repo, becuase somet
 
 ** Happing Hacking
 
-使用方法
+*** 使用方法
 #clone spacemacs repo and use develop branch
 git clone https://github.com/syl20bnr/spacemacs.git ~/.emacs.d
 cd .emacs.d
